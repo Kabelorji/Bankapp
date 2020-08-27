@@ -123,7 +123,6 @@
 
 # making changes to transaction process of deposit and withdrawal instead of recalling 
 
-
 import random
 #creating a bank app
 #create the class user to get all the information of a user
